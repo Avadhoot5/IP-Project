@@ -1,4 +1,4 @@
-#!/home/pachinko/github/IP-Project/venv/bin/python3
+#!/home/pachinko/Documents/github/IP-Project/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -1,4 +1,4 @@
-#!/home/pachinko/github/IP-Project/venv/bin/python3
+#!/home/pachinko/Documents/github/IP-Project/venv/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
