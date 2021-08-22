@@ -32,7 +32,6 @@ filelock==3.0.12
 filepaths==0.0.8
 future==0.18.2
 gmpy2==2.0.8
-gpg===1.14.0-unknown
 gunicorn==20.0.4
 gyp==0.1
 hashID==3.1.4
