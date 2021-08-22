@@ -1,6 +1,5 @@
 addict==2.4.0
 appdirs==1.4.4
-apt-xapian-index==0.49
 asgiref==3.2.10
 astkit==0.5.4
 astroid==2.4.2
