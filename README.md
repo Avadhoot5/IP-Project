@@ -1,15 +1,14 @@
 # IP-Project
 
 PYBLOG: A Blog manager using Django Framework
-
-Windows Users:
+This are the requirements for Windows Users:
 
 ```
 python3 -m venv venv
 Scripts\activate.bat
 python3 -m pip install -r requirements.txt
 ```
-Linux Users:
+Requirements for Linux Users:
 
 ```
 source venv/bin/activate
@@ -26,3 +25,5 @@ What needs to be done:
 * Make a virtual environment
 * install all requirements (its inside venv/requirements.txt)
 * See if the project runs (python3 manage.py runserver)
+
+Updated the Readme.md File
